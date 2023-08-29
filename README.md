@@ -1,1 +1,2 @@
 # bangkit
+edit readme nihh
